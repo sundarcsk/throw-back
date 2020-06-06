@@ -1,5 +1,5 @@
 # throw-back
-simple but yet complex python code!!!!!!!
+simple yet complex python!!!!!!!
 
 def liv(lis):
  
